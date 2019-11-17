@@ -1,0 +1,10 @@
+- name: Overview
+  link: index.html
+- name: Learning Targets
+  link: learning-targets.html
+- name: Instructions
+  link: instructions.html
+- name: Submission
+  link: submission.html
+- name: Resources
+  link: resources.html
